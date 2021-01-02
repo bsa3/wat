@@ -4,6 +4,8 @@
   "description": "",
   "main": "script.js",
   "scripts": {
+    "build": "node ./scripts/build.js",
+    "run": "node ./scripts/run.js",
     "test": "jest *.wat *.js --watch"
   },
   "author": "",
