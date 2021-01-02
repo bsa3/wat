@@ -1,0 +1,15 @@
+{
+  "name": "wat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest *.wat *.js --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.6.3",
+    "wabt": "^1.0.20"
+  }
+}
